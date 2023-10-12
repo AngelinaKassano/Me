@@ -4,6 +4,8 @@
 # 💻 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)
+Aksa_17
+
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white)
 https://discord.gg/tcxQXSEvV3
 
